@@ -1,8 +1,5 @@
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-DateTime;;;;;;;;;;;;;;;;
 ;PM10;PM2.5;Vel Viento 10M;Precipitacion;Dir Viento 10M;OZONO;CO;NO;NO2;NOX;SO2;Temperatura;Rad Solar;;HR;
-;µg/m3;µg/m3;m/s;mm;Grados;ppb;ppm;ppb;ppb;ppb;ppb;°C;W/M²;;%;
+;Âµg/m3;Âµg/m3;m/s;mm;Grados;ppb;ppm;ppb;ppb;ppb;ppb;Â°C;W/MÂ²;;%;
 01-01-2023 01:00;42;36;0,3;0;283;1,4;0,7;6,5;16,4;22,8;0;12,2;0;;86,94;
 01-01-2023 02:00;55;38;0,5;0;294;4;0,5;2,8;9,6;12,5;0;12;0;;86,97;
 01-01-2023 03:00;50;32;0,4;0;321;2;0,5;4,9;8,7;13,6;0;11,3;0;;86,58;
